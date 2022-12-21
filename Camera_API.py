@@ -8,10 +8,6 @@ from pprint import pprint
 #Pegando parte do link
 weather = 'https://apex.oracle.com/pls/apex/raspberrypi/weatherstation/getlatestmeasurements/'
 
-#Definindo a longitude e latitude de São Carlos
-my_lat = -22.00962768278184
-my_lon = -47.89382570189137
-
 #Pegando o ID fornecido pelo docente 
 ID = 966583
 
